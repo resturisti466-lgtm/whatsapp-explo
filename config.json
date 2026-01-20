@@ -1,0 +1,19 @@
+{
+  "tool_name": "WhatsApp Exploit Toolkit",
+  "version": "2.0",
+  "author": "ArgaaaAi Systems",
+  "disclaimer": "Hanya untuk tujuan edukasi dan testing pada sistem yang Anda miliki",
+  "features": [
+    "Information Gathering",
+    "Vulnerability Scanning",
+    "WhatsApp Bombing",
+    "Real-Time Tracking",
+    "Automated Attacks"
+  ],
+  "settings": {
+    "max_bomb_messages": 1000,
+    "tracking_duration_limit": 30,
+    "auto_save_reports": true,
+    "stealth_mode": false
+  }
+}
